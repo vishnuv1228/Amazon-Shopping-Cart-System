@@ -1,0 +1,68 @@
+<products>
+book
+The C++ Programming Language
+55.80
+10
+978-032156384-2
+Bjarne Stroustrup
+book
+C++ Primer
+41.93
+2
+978-032171411-4
+Stanely B. Lippman
+book
+Data Abstraction & Problem Solving with C++
+79.99
+20
+978-013292372-9
+Carrano and Henry
+clothing
+Men's Fitted Shirt
+39.99
+25
+Medium
+J. Crew
+movie
+Whiplash DVD
+17.99
+1
+Drama
+R
+movie
+Interstellar Blu-ray
+22.99
+0
+Sci-Fi
+PG-13
+</products>
+<users>
+ttrojan 19 100.00 0 29703
+redekopp 36 50.00 1 53110
+aaroncot 30 120.00 1 28114
+peter 21 20.00 0 1936
+ruyan 21 250.00 1 54151
+nikhil 21 220.00 0 60766
+</users>
+<reviews>
+The C++ Programming Language
+4 redekopp 2013-02-10 text
+The C++ Programming Language
+3 ttrojan 2014-11-19 text
+C++ Primer
+5 ttrojan 2015-08-02 text
+C++ Primer
+4 peter 2010-10-31 text
+Data Abstraction & Problem Solving with C++
+2 peter 2010-04-01 text
+Data Abstraction & Problem Solving with C++
+3 aaroncot 2007-02-28 text
+Men's Fitted Shirt
+5 ttrojan 2011-08-16 text
+Whiplash DVD
+3 peter 2013-12-23 text
+Interstellar Blu-ray
+1 aaroncot 2013-12-23 text
+Interstellar Blu-ray
+5 ttrojan 2013-12-23 text
+</reviews>

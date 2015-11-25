@@ -1,0 +1,128 @@
+<products>
+book
+The C++ Programming Language
+55.80
+10
+978-032156384-2
+Bjarne Stroustrup
+book
+C++ Primer
+41.93
+2
+978-032171411-4
+Stanely B. Lippman
+book
+Data Abstraction & Problem Solving with C++
+79.99
+20
+978-013292372-9
+Carrano and Henry
+book
+Great Men and Women of Troy
+19.50
+5
+978-000000000-1
+Tommy Trojan
+book
+The Kite Runner
+11
+5
+978-123456789-0
+Khaled Hosseini
+clothing
+Men's Fitted Shirt
+39.99
+25
+Medium
+J. Crew
+clothing
+Women's Long Sleeved Top
+69.50
+20
+Large
+Calvin Klein
+clothing
+Women's Japanese Denim
+179
+10
+Medium
+Joe'e Jeans
+clothing
+Little Boys' Big Face T-Shirt
+12.99
+50
+Small
+SpongeBob SquarePants
+clothing
+Two-Piece Outerwear
+35.99
+40
+Small
+ZeroXposur
+movie
+Whiplash DVD
+17.99
+1
+Drama
+R
+movie
+Goya's Ghosts DVD
+32.68
+2
+Drama
+R
+movie
+From Hell to Texas DVD
+32.98
+10
+Western
+NR
+movie
+The Looney Tunes Show DVD
+39.79
+8
+Animation
+PG
+movie
+Interstellar Blu-ray
+22.99
+0
+Sci-Fi
+PG-13
+</products>
+<users>
+ttrojan 19 100.00 0 29703
+redekopp 36 50.00 1 53110
+aaroncot 30 120.00 1 28114
+peter 21 20.00 0 1936
+ruyan 21 250.00 1 54151
+nikhil 21 220.00 0 60766
+</users>
+<reviews>
+Interstellar Blu-ray
+4 redekopp 2013-02-10 Fresh not rotten!
+Interstellar Blu-ray
+2 aaroncot 2014-11-19 So so
+Interstellar Blu-ray
+5 ttrojan 2015-08-02 Not worth it
+Men's Fitted Shirt
+1 redekopp 2013-06-17 Smedium
+Men's Fitted Shirt
+3 nikhil 2013-12-23 I love Kanye
+Men's Fitted Shirt
+4 ruyan 2013-12-23 standard
+Men's Fitted Shirt
+3 ttrojan 2014-01-14 no opinion
+Men's Fitted Shirt
+3 peter 2014-03-12 good enough
+The C++ Programming Language
+3 aaroncot 2010-10-31 The classic 
+The C++ Programming Language
+2 ruyan 2010-04-01 I like data structures
+The C++ Programming Language
+3 redekopp 2009-05-20 C++ is coolT
+C++ Primer
+1 nikhil 2007-02-28 I'm only 14
+C++ Primer
+5 ttrojan 2011-08-16 I'm old
+</reviews>

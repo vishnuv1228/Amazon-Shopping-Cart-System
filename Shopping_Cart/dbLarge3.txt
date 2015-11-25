@@ -1,0 +1,258 @@
+<products>
+book
+Communicating Design
+39.99
+3
+978-032171246-2
+Dan M. Brown
+book
+Flatland
+18.99
+8
+978-046501123-0
+Edwin A. Abbott
+book
+Core Java Programming
+42.99
+4
+013-081933624-9
+C. Horstmann
+book
+Guide to XHTML
+19.99
+10
+978-032117868-8
+Cheryl M. Hughes
+book
+ASP
+20
+1
+978-000000000-0
+Thom Luce
+book
+The C++ Programming Language
+55.8
+10
+978-032156384-2
+Bjarne Stroustrup
+book
+C++ Primer
+41.93
+2
+978-032171411-4
+Stanely B. Lippman
+book
+Data Abstraction & Problem Solving with C++
+79.99
+20
+978-013292372-9
+Carrano and Henry
+book
+Great Men and Women of Troy
+19.5
+5
+978-000000000-1
+Tommy Trojan
+book
+The Kite Runner
+11
+5
+978-123456789-0
+Khaled Hosseini
+clothing
+Boys' Rib-Waist Cargos
+19.99
+8
+Medium
+OLD-NAVY
+clothing
+Men's Short
+24.99
+15
+Large
+NORDSTROM
+clothing
+Little Girl's Cardigans
+19.94
+20
+Medium
+USC
+clothing
+Kid's Tee Shirt
+20.99
+100
+Small
+OLD-NAVY
+clothing
+Women's Cardigans
+1500
+1
+Medium
+Gucci
+clothing
+Men's Fitted Shirt
+39.99
+25
+Medium
+J. Crew
+clothing
+Women's Long Sleeved Top
+69.5
+20
+Large
+Calvin Klein
+clothing
+Women's Japanese Denim
+179
+10
+Medium
+Joe'e Jeans
+clothing
+Little Boys' Big Face T-Shirt
+12.99
+50
+Small
+SpongeBob SquarePants
+clothing
+Two-Piece Outerwear
+35.99
+40
+Small
+ZeroXposur
+movie
+Whiplash DVD
+17.99
+1
+Drama
+R
+movie
+Goya's Ghosts DVD
+32.68
+2
+Drama
+R
+movie
+From Hell to Texas DVD
+32.98
+10
+Western
+NR
+movie
+The Looney Tunes Show DVD
+39.79
+8
+Animation
+PG
+movie
+Interstellar Blu-ray
+22.99
+0
+Sci-Fi
+PG-13
+movie
+Jesse James Streaming
+2.99
+1000
+Crime
+R
+movie
+Kiki's Delivery Service Blu-ray
+39.99
+5
+Fantasy
+G
+movie
+2001: A space odyssey Streaming
+3.99
+1000
+Fantasy
+G
+movie
+Alien DVD
+19.99
+10
+Thriller
+R
+movie
+Aliens Streaming
+3.99
+1000
+Thriller
+R
+</products>
+<users>
+aaroncot 30 120 1 28114
+nikhil 21 220 0 60766
+peter 21 20 0 1936
+redekopp 36 50 1 53110
+ruyan 21 250 1 54151
+ttrojan 19 100 0 29703
+</users>
+<reviews>
+2001: A space odyssey Streaming
+5 aaroncot 2001-03-03 A monolith in cinematic history
+2001: A space odyssey Streaming
+4 redekopp 2001-02-28 Pretty good
+ASP
+2 peter 2009-10-10 Poorly written
+Alien DVD
+2 ruyan 1984-03-21 Terrifying experience, I had to leave in the middle
+Alien DVD
+5 nikhil 2000-12-25 All time favorite.
+Aliens Streaming
+4 redekopp 2001-02-17 Human drama element of this sequel is greatly heightened
+Communicating Design
+3 ttrojan 2013-07-13 Great lesson to learn
+Communicating Design
+4 aaroncot 2014-08-15 Helpful
+Communicating Design
+2 ruyan 2013-07-13 Great lesson to learn
+Core Java Programming
+3 peter 2012-05-11 Nice book
+Data Abstraction & Problem Solving with C++
+3 nikhil 2013-12-25 Is this required?
+From Hell to Texas DVD
+4 redekopp 1999-07-15 A blend of bravery and honesty. Ending was marvelous.
+From Hell to Texas DVD
+4 peter 2011-10-16 Well developed characters not usually found in this genre.
+From Hell to Texas DVD
+5 aaroncot 2012-04-19 Great movie
+From Hell to Texas DVD
+2 ruyan 2014-08-10 Poor acting
+Goya's Ghosts DVD
+3 aaroncot 2007-08-17 I was not unhappy neither with the acting, nor with the story line, although it is a little bit too melo-dramatic and too much prone to coincidences.
+Guide to XHTML
+4 redekopp 2012-05-06 Extensive examples on design
+Interstellar Blu-ray
+5 peter 2014-11-10 After watching Interstellar, do yourself a favor and get lost in space and time and go back in time to see Contact.
+Jesse James Streaming
+4 aaroncot 1990-07-28 This is a sprawling and glamorous Western with excellent performances from Tyrone Power and Henry Fonda .
+Kid's Tee Shirt
+4 peter 2010-04-07 Nice shirt, fits very well
+Kiki's Delivery Service Blu-ray
+3 nikhil 2004-08-24 As someone who lives in Tasmania, which is allegedly the inspiration for much of the setting of this film, please come here by all means, but don't expect it to look like that.
+Little Boys' Big Face T-Shirt
+4 nikhil 2015-01-05 Cute but fits small for size.
+Men's Fitted Shirt
+1 redekopp 2013-09-19 Poor fabric, didn't last a week.
+Men's Short
+2 peter 2014-05-03 sizing is not correct
+The C++ Programming Language
+4 redekopp 2014-08-15 Nice book 
+The Kite Runner
+5 ttrojan 2011-07-21 Characters are well written and story is well told.
+The Looney Tunes Show DVD
+4 ttrojan 2012-04-01 Witty dialog and excellent slapstick, and combined with the above-average animation, makes for one great show.
+Two-Piece Outerwear
+5 nikhil 2013-04-18 Cute and well made
+Whiplash DVD
+4 ruyan 2013-04-05 Good thing our CS professors are nicer than J.K. Simmons was
+Whiplash DVD
+5 aaroncot 2014-01-05 Excellent...Oscar worthy
+Women's Cardigans
+5 peter 2010-10-29 Worth paying for.
+Women's Japanese Denim
+5 redekopp 2013-02-10 Love them!
+Women's Long Sleeved Top
+1 ttrojan 2015-03-11 Don't waste your money, you'd get better quality clothes from dollar store
+</reviews>
