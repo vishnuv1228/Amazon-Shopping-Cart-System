@@ -1,8 +1,3 @@
-CS 104 HW #8 - Project Part 3
-Name: Ananth Venkateswaran
-USC ID: 8644181852
-Email: anvenkat@usc.edu
-
 DO NOT run qmake -project. Run qmake and make - this uses the std=c+11. 
 Run ./hw5 dbSmall3.txt or equivalents
 
